@@ -17,5 +17,6 @@ This repository combines forecasting models for SNAP EBT produce incentive progr
 - **Sales Forecasting:** Moving Average, Exponential Smoothing, Arima, Prophet.
 - **Redemption Cost Projections:** Scenario modeling for $5 and $10 caps, confidence bands for uncertainty.
 - **Incentive Optimization:** Simulation models to balance participation vs. cost.
-- ## Files
-- <img width="887" height="326" alt="Forecasting Data" src="https://github.com/user-attachments/assets/98061aa4-b1bf-4799-91ea-4e7f2683333f" />
+- ## Dataset
+- https://github.com/SheaRendle/Forecasting/blob/main/Forecasting%20Data.png?raw=true
+- 

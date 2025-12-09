@@ -22,4 +22,4 @@ This repository combines forecasting models for SNAP EBT produce incentive progr
 - ## Dataset
 - https://github.com/SheaRendle/Forecasting/blob/main/Forecasting%20Data.png?raw=true
 - ## Forecast
-- 
+- https://github.com/SheaRendle/Forecasting/blob/main/Forecasting%20Results.png?raw=true

@@ -1,6 +1,6 @@
 # Forecasting & Analysis
 ## Overview
-This repository combines forecasting models for SNAP EBT produce incentive programs with trend analysis of Double Up Food Bucks (DUFB) data across Texas sites. Together, these efforts provide actionable insights for grant planning, program sustainability, and community impact evaluation.
+This repository combines forecasting models for SNAP EBT produce incentive programs with trend analysis data across Texas sites. Together, these efforts provide actionable insights for grant planning, program sustainability, and community impact evaluation.
 - **Forecasting:** Projects incentive redemption costs under $5 and $10 cap scenarios using store‑level produce sales and transaction data.
 - **Analysis:** Explores SNAP and Double Up program trends from 2020–2025, highlighting variability, adoption patterns, and correlations across sites and organization types.
 ## Why This Matters

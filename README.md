@@ -15,7 +15,7 @@ This repository combines forecasting models for SNAP EBT produce incentive progr
   - Monthly aggregation masks week-to-week sales fluctuations, reducing forecast responsiveness.
   - Seasonality is weak/inconsistent making seasonal models less reliable.​
   - External drivers like incentive surges or policy shifts are not explicitly captured in the dataset, limiting predictive power.
-- **Recommendations:**
+## Recommendations
   - Extend data to 12–18 months to capture more stable patterns and validate model performance.​
   - Increase granularity (e.g., switch from monthly to weekly data) to better model short-term shifts.
   - Retain all four models (SMA, ARIMA, HES, Prophet) but prioritize based on store-specific performance and data behavior.

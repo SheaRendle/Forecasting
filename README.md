@@ -8,15 +8,18 @@ This repository combines forecasting models for SNAP EBT produce incentive progr
 - **Program Sustainability:** Scenario modeling ($5 vs. $10 caps) to balance reach and budget.
 - **Community Impact:** Identifies high‑need areas and program adoption trends.
 - **Strategic Decisions:** Correlation and trend analysis to optimize outreach and incentive design.
-  ## Dataset Summaries
-  - Store‑level produce sales and EBT transactions.
-  - Key metrics: Avg monthly sales, transactions, incentive per transaction, monthly redemption, 3‑month and 7‑month projections.
-  - Outputs: Comparative cost models for $10 vs. $5 incentive caps.
-# Forecasting & Analysis Approach
-## Forecasting Models
-- **Sales Forecasting:** Moving Average, Exponential Smoothing, Arima, Prophet.
-- **Redemption Cost Projections:** Scenario modeling for $5 and $10 caps, confidence bands for uncertainty.
-- **Incentive Optimization:** Simulation models to balance participation vs. cost.
+## Key Findings
+  - Moving Average, Exponential Smoothing; SMA and ARIMA delivered strongest performance in most stores under limited, stable data.
+- **Limitations:**
+  - Short 7-month dataset limits ability to detect long-term trends or seasonality.​
+  - Monthly aggregation masks week-to-week sales fluctuations, reducing forecast responsiveness.
+  - Seasonality is weak/inconsistent making seasonal models less reliable.​
+  - External drivers like incentive surges or policy shifts are not explicitly captured in the dataset, limiting predictive power.
+- **Recommendations:**
+  - Extend data to 12–18 months to capture more stable patterns and validate model performance.​
+  - Increase granularity (e.g., switch from monthly to weekly data) to better model short-term shifts.
+  - Retain all four models (SMA, ARIMA, HES, Prophet) but prioritize based on store-specific performance and data behavior.
 - ## Dataset
 - https://github.com/SheaRendle/Forecasting/blob/main/Forecasting%20Data.png?raw=true
+- ## Forecast
 - 

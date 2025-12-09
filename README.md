@@ -2,7 +2,7 @@
 ## Overview
 This repository combines forecasting models for SNAP EBT produce incentive programs with trend analysis data across Texas sites. Together, these efforts provide actionable insights for grant planning, program sustainability, and community impact evaluation.
 - **Forecasting:** Projects incentive redemption costs under $5 and $10 cap scenarios using store‑level produce sales and transaction data.
-- **Analysis:** Explores SNAP and Double Up program trends from 2020–2025, highlighting variability, adoption patterns, and correlations across sites and organization types.
+- **Analysis:** Explores SNAP and program trends, highlighting variability, adoption patterns, and correlations across sites and organization types.
 ## Why This Matters
 - **Grant Planning:** Transparent projections of program costs for funders and stakeholders.
 - **Program Sustainability:** Scenario modeling ($5 vs. $10 caps) to balance reach and budget.
